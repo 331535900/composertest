@@ -1,12 +1,11 @@
 {
-    "name": "laosong/test",
+    "name": "331535900/c",
     "description": "test",
-    "type": "projeck",
     "license": "mit",
     "authors": [
         {
-            "name": "Lo sON",
-            "email": "331535900@QQ.COM"
+            "name": "Lao song",
+            "email": "331535900@qq.com"
         }
     ],
     "minimum-stability": "dev",
