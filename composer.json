@@ -1,0 +1,14 @@
+{
+    "name": "laosong/test",
+    "description": "test",
+    "type": "projeck",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Lo sON",
+            "email": "331535900@QQ.COM"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
